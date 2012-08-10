@@ -1,8 +1,8 @@
 <?php
 
-$modversion['name'] = 'È¢Äí½ôÅç';
+$modversion['name'] = 'hako';
 $modversion['version'] = "1.1";
-$modversion['description'] = '';
+$modversion['description'] = 'Hakoniwa clone';
 $modversion['credits'] = "";
 $modversion['author'] = "";
 $modversion['help'] = "";
@@ -17,4 +17,3 @@ $modversion['adminmenu'] = "";
 
 // Menu
 $modversion['hasMain'] = 1;
-?>
