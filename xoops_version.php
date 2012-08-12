@@ -9,7 +9,7 @@ $modversion['help'] = "";
 $modversion['license'] = "";
 $modversion['official'] = "no";
 $modversion['image'] = "hako_image/hakoniwa.gif";
-$modversion['dirname'] = "hako";
+$modversion['dirname'] = "hako-xc";
 // Admin things
 $modversion['hasAdmin'] = 1;
 $modversion['adminindex'] = "hako-mente.php";
