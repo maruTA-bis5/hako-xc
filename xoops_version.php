@@ -1,6 +1,6 @@
 <?php
 
-$modversion['name'] = 'hako';
+$modversion['name'] = 'hako-xc';
 $modversion['version'] = "1.1";
 $modversion['description'] = 'Hakoniwa clone';
 $modversion['credits'] = "";
